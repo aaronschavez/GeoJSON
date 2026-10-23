@@ -1,0 +1,54 @@
+{
+  "source_commit": "a2a9342b0964909cccf07780c37f525ac1dff36f",
+  "description": "Source content SHA-256 after removing crs and canonicalizing ring direction only. Preserve all properties and coordinate values.",
+  "files": {
+    "Departamento.geojson": {
+      "features": 16,
+      "positions": 3222,
+      "label": "Departamento",
+      "bounds": [
+        -87.692167,
+        10.709781,
+        -82.744659,
+        15.026647
+      ],
+      "fingerprint": "e195b1f77a9ae4c15f5fe5d080c8daea683272fb52da627a280b047558341354"
+    },
+    "Municipio.geojson": {
+      "features": 153,
+      "positions": 6930,
+      "label": "Municipio",
+      "bounds": [
+        -87.692167,
+        10.709781,
+        -82.744659,
+        15.026647
+      ],
+      "fingerprint": "fe174f030ba6262d4c5101dec9e610d22c1c9168f072bc3dc3271626eeac96c7"
+    },
+    "Nicaragua - Zona.geojson": {
+      "features": 6,
+      "positions": 2526,
+      "label": "Zona",
+      "bounds": [
+        -87.692167,
+        10.709781,
+        -82.744659,
+        15.026647
+      ],
+      "fingerprint": "ed380ee8e902054444011ebe5d8188dbd6392f4602f69ae90227f81dbbf371a7"
+    },
+    "Nicaragua.geojson": {
+      "features": 1,
+      "positions": 1668,
+      "label": "Pais",
+      "bounds": [
+        -87.692167,
+        10.709781,
+        -82.744659,
+        15.026647
+      ],
+      "fingerprint": "36a10501cb7b4be2dc3264ef4b54726a5f621d0f0438194cafcd7c09a77189d8"
+    }
+  }
+}

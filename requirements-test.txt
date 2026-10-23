@@ -1,0 +1,6 @@
+pytest>=8,<10
+shapely>=2.1,<3
+geopandas>=1.1,<2
+folium>=0.20,<1
+pydeck>=0.9,<1
+streamlit>=1.50,<2
